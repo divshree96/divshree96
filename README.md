@@ -8,6 +8,8 @@ I'm an indie full-stack developer and content creator building my version of the
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -27,6 +29,7 @@ All video content is built the same way, from ideation and planning, all the way
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
 
 ![Stats](https://myreadme.vercel.app/api/embed/divshree96?panels=userstatistics,commitgraph,toplanguages,toprepositories)
 
