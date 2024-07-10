@@ -28,6 +28,8 @@ All video content is built the same way, from ideation and planning, all the way
 <br />
 
 
+![Stats](https://myreadme.vercel.app/api/embed/divshree96?panels=userstatistics,commitgraph,toplanguages,toprepositories)
+
 <!--
 **divshree96/divshree96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
