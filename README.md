@@ -4,9 +4,10 @@
 
 **` Software Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
-All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I am a passionate Software Engineer with over four years of experience, and currently I am pursuing a Master of Science in Software Engineering Systems at Northeastern
+University. My career has been marked by key roles at Validity and Amazon, where I’ve spearheaded projects that enhanced user experiences and
+system reliability through innovative software solutions. With a strong foundation in Java, Spring Boot, Python, and Cloud technologies like AWS and GCP,
+I am committed to leveraging my skills in developing scalable and efficient systems. I am open to new opportunities and eager to contribute to and grow with a dynamic team.
 
 ---
 
