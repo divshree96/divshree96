@@ -1,6 +1,6 @@
 ##  🏄‍♂️ Divya Shree 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=divshree96.divshree96)
+[//]: # (![Visitor Badge]&#40;https://visitor-badge.laobi.icu/badge?page_id=divshree96.divshree96&#41;)
 
 **` Software Developer`**
 
