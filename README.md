@@ -1,6 +1,5 @@
 ##  👩🏻‍💻 ♂️ Hi, I'm Divya Shree 👋
----
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=divshree96&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=divshree96&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ### 💫 **` Software Developer`**
 I am a passionate Software Engineer with over four years of experience, and currently I am pursuing a Master of Science
@@ -10,7 +9,7 @@ With a strong foundation in Java, Spring Boot, Python, and Cloud technologies li
 my skills in developing scalable and efficient systems. I am open to new opportunities and eager to contribute to and grow with a dynamic team.<br>
 
 
-# 💻 Tech Stack:
+# 💻 Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -45,6 +44,7 @@ my skills in developing scalable and efficient systems. I am open to new opportu
 ![](https://github-readme-stats.vercel.app/api?username=divshree96&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divshree96&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divshree96&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=divshree96&theme=radical&border_radius=4.5)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=divshree96&limit=5&theme=dark&combine_all_yearly_contributions=true)
