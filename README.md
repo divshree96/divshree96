@@ -2,11 +2,10 @@
 [![](https://visitcount.itsvg.in/api?id=divshree96&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ### 💫 **` Software Developer`**
-I am a passionate Software Engineer with over four years of experience, and currently I am pursuing a Master of Science
-in Software Engineering Systems at Northeastern University.<br> My career has been marked by key roles at Validity and Amazon, 
-where I’ve spearheaded projects that enhanced user experiences and system reliability through innovative software solutions. <br>
-With a strong foundation in Java, Spring Boot, Python, and Cloud technologies like AWS and GCP,I am committed to leveraging 
-my skills in developing scalable and efficient systems.<br> I am open to new opportunities and eager to contribute to and grow with a dynamic team.<br>
+👩🏻‍🎓 I am a passionate Software Engineer with over four years of experience, and currently I am pursuing a Master of Science in Software Engineering Systems at Northeastern University.<br>
+💼 My career has been marked by key roles at Validity and Amazon, where I’ve spearheaded projects that enhanced user experiences and system reliability through innovative software solutions. <br>
+📕 With a strong foundation in Java, Spring Boot, Python, and Cloud technologies like AWS and GCP,I am committed to leveraging my skills in developing scalable and efficient systems.<br>
+👷 I am open to new opportunities and eager to contribute to and grow with a dynamic team.<br>
 
 
 # 💻 Languages and Tools:
