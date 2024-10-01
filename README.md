@@ -1,4 +1,4 @@
-##  👩🏻‍💻 ♂️ Hi, I'm Divya Shree 👋
+#  👩🏻‍💻 ♂️ Hi, I'm Divya Shree 👋
 [![](https://visitcount.itsvg.in/api?id=divshree96&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ### 💫 **` Software Developer`**
